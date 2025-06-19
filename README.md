@@ -9,32 +9,18 @@
 
 <img src="http://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="100%"/>
 
-<table>
-  <tr>
-    <td>
+### Profissional com sólida experiência em desenvolvimento back-end utilizando .NET, C# e tecnologias relacionadas. Especializado na construção de aplicações escaláveis seguindo princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS.
 
-Profissional com sólida experiência em desenvolvimento back-end utilizando .NET, C# e tecnologias relacionadas. Especializado na construção de aplicações escaláveis seguindo princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS.
+## Possuo expertise em:
+## - Desenvolvimento de APIs RESTful robustas  
+## - Bancos de dados relacionais (SQL Server, PostgreSQL) e NoSQL  
+## - Testes unitários e de integração (xUnit, Moq)  
+## - Integração contínua e entrega contínua (CI/CD)  
 
-Possuo expertise em:
-- Desenvolvimento de APIs RESTful robustas  
-- Bancos de dados relacionais (SQL Server, PostgreSQL) e NoSQL  
-- Testes unitários e de integração (xUnit, Moq)  
-- Integração contínua e entrega contínua (CI/CD)  
-
-Comprometido com código limpo, boas práticas de desenvolvimento e melhoria contínua de processos. Experiência em trabalhos remotos e colaboração em equipes ágeis.
-
-Atualmente buscando novos desafios para aplicar meu conhecimento em arquitetura de software e desenvolvimento back-end em projetos inovadores.
-
-📧 **Contatos**  
-jallexz@msn.com  
-jose.barros@microworkers.com.br
-
-  </td>
-  <td>
-    <img src="https://via.placeholder.com/450" width="450"/>
-  </td>
-  </tr>
-</table>
+Comprometido com código limpo, boas práticas de desenvolvimento e melhoria contínua de processos. Experiência em trabalhos remotos e colaboração em equipes ágeis.  
+E-mails:   
+__jallexz@msn.com__  
+__jose.barros@microworkers.com.br__
 
 ---
 
