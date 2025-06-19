@@ -1,4 +1,3 @@
-## 🚀 <H1>Tecnologias & Stacks</H1>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -8,7 +7,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)
 
-<img src="https://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="450"/>
+<img src="http://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="100%"/>
 
 <table>
   <tr>
