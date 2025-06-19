@@ -1,7 +1,8 @@
 
 <img src="http://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="100%"/>
- 
-#
+
+### Profissional com sólida experiência em desenvolvimento back-end utilizando .NET, C# e tecnologias relacionadas. Especializado na construção de aplicações escaláveis seguindo princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alexandre-de-barros-17348327a/)
 #
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
@@ -27,8 +28,9 @@
  
 
 
-### Profissional com sólida experiência em desenvolvimento back-end utilizando .NET, C# e tecnologias relacionadas. Especializado na construção de aplicações escaláveis seguindo princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS.  
+  
 ## - Desenvolvimento de APIs RESTful robustas  
+## - Microsserviços
 ## - Bancos de dados relacionais (SQL Server, PostgreSQL) e NoSQL  
 ## - Testes unitários e de integração (xUnit, Moq)  
 ## - Integração contínua e entrega contínua (CI/CD)  
