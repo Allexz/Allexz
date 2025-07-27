@@ -31,7 +31,7 @@
   
 ## - Desenvolvimento de APIs RESTful robustas  
 ## - Microsserviços
-## - Bancos de dados relacionais (SQL Server, PostgreSQL) e NoSQL  
+## - Bancos de dados relacionais (SQL Server, PostgreSQL, Oracle, MySql) e NoSQL (MongoDB,Redis)
 ## - Testes unitários e de integração (xUnit, Moq)  
 ## - Integração contínua e entrega contínua (CI/CD)  
 
