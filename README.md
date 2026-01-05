@@ -1,9 +1,6 @@
 
-<img src="http://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="100%"/>
+<img src="http://www.microworkers.com.br/images/aguia.jpeg" alt="Águia americana em voo" width="100%"/>  
 
-### Profissional com sólida experiência em desenvolvimento back-end utilizando .NET, C# e tecnologias relacionadas. Especializado na construção de aplicações escaláveis seguindo princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alexandre-de-barros-17348327a/)
 #
 ![.NET Core](https://img.shields.io/badge/.NET%20Core-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
@@ -25,19 +22,26 @@
 ![NSubstitute](https://img.shields.io/badge/NSubstitute-5C2D91?style=flat&logo=.net&logoColor=white)
 ![RESTful](https://img.shields.io/badge/RESTful-005571?style=flat&logo=rest&logoColor=white)
 
+### Sou um profissional com sólida e contínua experiência em desenvolvimento Full Stack, atuando com a plataforma .NET desde o lançamento de sua primeira versão, tendo acompanhado toda a sua evolução tecnológica — desde ASP.NET WebForms e WebServices (ASMX/WCF) até as arquiteturas modernas baseadas em APIs REST e .NET Core/.NET.  
+### Possuo forte especialização em C# e no ecossistema .NET, com ampla vivência na construção, manutenção e modernização de sistemas legados e no desenvolvimento de novas soluções escaláveis, aplicando princípios de Clean Architecture, Domain-Driven Design (DDD) e padrões como CQRS. 
+### Ao longo da minha trajetória profissional, desenvolvi sólida expertise nas seguintes tecnologias e práticas:
+## - Desenvolvimento de aplicações web com ASP.NET WebForms, incluindo manutenção e evolução de sistemas críticos
+## - Criação e consumo de WebServices (ASMX e WCF), bem como APIs RESTful robustas
+## - Bancos de dados relacionais (SQL Server, PostgreSQL, Oracle) e NoSQL
+## - Testes unitários e de integração (xUnit, Moq)
+## - Integração Contínua e Entrega Contínua (CI/CD)
+## - Angular para aplicações front-end modernas
+## - WPF (Windows Presentation Foundation)
+## - JavaScript, TypeScript e jQuery
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jos%C3%A9-alexandre-de-barros-17348327a/)
  
-
-
-  
-## - Desenvolvimento de APIs RESTful robustas  
-## - Microsserviços
-## - Bancos de dados relacionais (SQL Server, PostgreSQL, Oracle, MySql) e NoSQL (MongoDB,Redis)
-## - Testes unitários e de integração (xUnit, Moq)  
-## - Integração contínua e entrega contínua (CI/CD)  
+ 
 
 __E-mail:__  
 __jallexz@msn.com__  
-__jose.barros@microworkers.com.br__
+__jalexandre.debarros@gmail.com__
 
 
 
